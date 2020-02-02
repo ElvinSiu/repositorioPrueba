@@ -1,0 +1,12 @@
+C:\Users\ingsi\source\repos\practica\practica\bin\Debug\practica.exe.config
+C:\Users\ingsi\source\repos\practica\practica\bin\Debug\practica.exe
+C:\Users\ingsi\source\repos\practica\practica\bin\Debug\practica.pdb
+C:\Users\ingsi\source\repos\practica\practica\bin\Debug\practica.xml
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.vbprojAssemblyReference.cache
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.Form1.resources
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.Resources.resources
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.vbproj.GenerateResource.cache
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.vbproj.CoreCompileInputs.cache
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.exe
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.xml
+C:\Users\ingsi\source\repos\practica\practica\obj\Debug\practica.pdb
